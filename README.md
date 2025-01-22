@@ -9,6 +9,6 @@
 - 👩🏻‍💻 My full-time job is full-stack engineering
 - 🐉 In my free time I make my friends fight monsters (aka I am a Dungeons and Dragons DM)
 
-See my CV [here](https://github.com/evedour/evedour/blob/main/CV_Eva_Dourou.pdf) or reach me by email at evedour<at>gmail<dot>com
+See my CV [here](https://github.com/evedour/evedour/blob/main/CV_Eva_Dourou.pdf) or reach me by email at evedour\<at\>gmail\<dot\>com
 
 [![roadmap.sh](https://roadmap.sh/card/wide/672ba53431d65c235d13a822?variant=dark&roadmaps=ai-data-scientist)](https://roadmap.sh)
