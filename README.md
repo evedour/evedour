@@ -11,7 +11,7 @@
 - 🔢 My lucky number is 16
 - 🐉 In my down time I make my friends fight monsters (aka I am a Dungeons and Dragons DM)
 
-Message me on [LinkedIn](https://www.linkedin.com/in/eva-dourou-a072a2251/) or reach me by email at evedour\<at\>gmail\<dot\>com
+Feel free to message me on [LinkedIn](https://www.linkedin.com/in/eva-dourou-a072a2251/).
 
 [![roadmap.sh](https://roadmap.sh/card/wide/672ba53431d65c235d13a822?variant=dark&roadmaps=ai-data-scientist)](https://roadmap.sh)
 
