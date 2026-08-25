@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🐱‍💻 I'm a computer engineer and technology buff with two and a half years of professional experience as a full-stack developer.
+🐱‍💻 I'm a computer engineer and technology buff with three years of professional experience as a full-stack developer.
 
 🤖 Equipped with academic expertise in machine learning and hyper-parameter optimisation, and driven by a passion for AI-powered solutions. (You can read my thesis [here!](https://nemertes.library.upatras.gr/items/23e16095-3328-4232-ba0b-a802bb3f4ac6))
 
